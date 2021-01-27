@@ -1,2 +1,5 @@
 # RubyPinball
-Pinball game made in ruby for Introduction to Software Engineering universtiy module. Completed December 2017
+Made by James Taylor
+Pinball game made in Ruby for Introduction to Software Engineering universtiy module. 
+Uploaded from University Git
+Completed December 2017
